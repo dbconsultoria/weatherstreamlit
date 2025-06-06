@@ -169,14 +169,16 @@ with tabs[3]:
         - 💻 [Weather Project](https://github.com/dbconsultoria/weatherproject)
         - 💻 [Weather Streamlit](https://github.com/dbconsultoria/weatherstreamlit)
         
-        This is my postfolio project to showcase a complete data engineering pipeline that extracts weather
-        data from the Visual Crossing API for Brazilian capitals, transforms it using Python and Pandas, and
-        loads it into a PostgreSQL database modeled in a star schema. It features a FastAPI application to 
-        expose the data via RESTful endpoints and is fully containerized using Docker for portability and 
-        deployment on Render.com. 
+        [Weather Project] (https://github.com/dbconsultoria/weatherproject]) is my portfolio project to showcase 
+        a complete data engineering pipeline that extracts weather data from the Visual Crossing API for Brazilian 
+        capitals, transforms it using Python and Pandas, and loads it into a PostgreSQL database modeled in a star 
+        schema. It features a FastAPI application to expose the data via RESTful endpoints and is fully containerized 
+        using Docker for portability and deployment on Render.com. 
         
         The ETL process is automated through Python scripts and stored procedures, enabling efficient data 
         integration and time-series analysis across multiple dimensions like city, date, and weather conditions.
+        
+        For the Streamlit app you are accessing, this is the github repo https://github.com/dbconsultoria/weatherstreamlit
         """,
         unsafe_allow_html=True
     )

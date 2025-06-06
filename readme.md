@@ -38,3 +38,9 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/dbconsultoria/weatherstreamlit.git
 cd weatherstreamlit
+```
+
+### The Weather Project
+
+This streamlit app is just a showcase for the database populated withe the weather project https://github.com/dbconsultoria/weatherproject
+Which is the main part of mine Data Engineering project portfolio. 
