@@ -1,5 +1,5 @@
-import psycopg2
 import streamlit as st
+import psycopg2
 import plotly.express as px
 import pandas as pd
 import os
