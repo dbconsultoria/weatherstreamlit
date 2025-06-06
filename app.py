@@ -169,7 +169,7 @@ with tabs[3]:
         - 💻 [Weather Project](https://github.com/dbconsultoria/weatherproject)
         - 💻 [Weather Streamlit](https://github.com/dbconsultoria/weatherstreamlit)
         
-        [Weather Project] (https://github.com/dbconsultoria/weatherproject]) is my portfolio project to showcase 
+        The Weather Project (https://github.com/dbconsultoria/weatherproject) is my portfolio project to showcase 
         a complete data engineering pipeline that extracts weather data from the Visual Crossing API for Brazilian 
         capitals, transforms it using Python and Pandas, and loads it into a PostgreSQL database modeled in a star 
         schema. It features a FastAPI application to expose the data via RESTful endpoints and is fully containerized 
