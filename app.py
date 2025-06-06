@@ -1,6 +1,7 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
+import os
 from dotenv import load_dotenv
 
 # Load environment variables from a .env file (optional but recommended for local dev)
